@@ -1,0 +1,29 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.container{
+  width: 100%;
+  max-width: 1070px;
+  margin: 0 auto;
+  padding: 0 10px;
+}
+.youtube-form{
+  padding-top: 50px;
+}
+.result{
+  padding: 20px 0;
+}
+.images{
+  display: flex;
+  width: 100%;
+  max-width: 500px;
+  flex-wrap: wrap;
+}
+.images-item{
+  display: flex;
+  width: 100%;
+  padding: 10px 0;
+  justify-content: space-between;
+}
